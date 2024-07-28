@@ -26,8 +26,6 @@ class Algebra {
 public class constructor {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        //@SuppressWarnings("unused")
-
         Algebra obj=new Algebra(5, 7);
         System.out.println(obj.add());
         System.out.println(obj.sub());

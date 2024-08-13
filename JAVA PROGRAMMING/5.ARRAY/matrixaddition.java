@@ -7,7 +7,7 @@ public class matrixaddition {
         int r=sc.nextInt();
         System.out.println("enter the number of column ");
         int c=sc.nextInt();
-
+        
         int arr1[][]=new int[r][c];
         int arr2[][]=new int[r][c];
         int sum[][]=new int[r][c];

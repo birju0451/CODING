@@ -1,6 +1,6 @@
-//package PROJECT;
+
 import java.util.Scanner;
-public class caculator {
+public class help{
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int operator,n1,n2;

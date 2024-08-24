@@ -9,8 +9,7 @@ public class Arrayinputandreferance {
         System.out.println("\n");
     }
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        
+        Scanner sc=new Scanner(System.in); 
         // System.out.println("enter the size of array:");
         //int s=sc.nextInt();
         // int[] arr = new int[s];
@@ -54,7 +53,7 @@ public class Arrayinputandreferance {
         arr[1]=0;
 
 
-        System.out.println("original array after chznging arr2");
+        System.out.println("original array after changing arr2");
         printArray(arr2);
 
         System.out.println("copied array");

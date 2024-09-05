@@ -1,3 +1,4 @@
+package oppsconcept;
 /*
  * inheritance means access the property of one class to another class
  * type of inheritance 
@@ -8,6 +9,7 @@
  * 3.hierarchial inheritance
  * from one base class multiple derived classess or subclass
  */
+
 class Shapes {
     String color;
 }

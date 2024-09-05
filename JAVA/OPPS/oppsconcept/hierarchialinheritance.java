@@ -1,4 +1,5 @@
-
+package oppsconcept;
+import java.util.*;
 class Shapes{
     public void area(){
         System.out.println("display area");
@@ -17,6 +18,10 @@ class circle extends Shapes{
 }
 public class hierarchialinheritance {
     public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+
+        
+        sc.close();
         
     }
     

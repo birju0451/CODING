@@ -1,7 +1,9 @@
+package oppsconcept;
 //about constructor 
 //1.constructor name should be class name
 //2.constructor can call only one time
 //3.it is three type :-parameterized constructor,non parameterized and copy constructor
+
 class student{
     String name;
     int age;

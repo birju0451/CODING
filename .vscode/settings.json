@@ -1,3 +1,14 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "JAVA\\1.BASICS_OF_JAVA",
+        "JAVA\\2.CONDITIONALS",
+        "JAVA\\3.LOOPS",
+        "JAVA\\4.OPPS",
+        "JAVA\\5.ARRAY1",
+        "JAVA\\5.ARRAY2",
+        "JAVA\\5.ARRAY3"
+    ],
+    "java.project.referencedLibraries": [],
+    "java.project.outputPath": "JAVA\\6.STRING"
 }
